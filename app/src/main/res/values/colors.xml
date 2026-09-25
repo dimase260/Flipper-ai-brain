@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Vesper Brand Colors — Classy Mythic Cyberpunk Bond -->
-    <color name="vesper_primary">#8B2038</color>
-    <color name="vesper_primary_dark">#5E1625</color>
+    <!-- Flippy Brand Colors — DiMase Inc. Bold Orange -->
+    <color name="vesper_primary">#E85D04</color>
+    <color name="vesper_primary_dark">#B23A02</color>
     <color name="vesper_secondary">#1A1F2E</color>
-    <color name="vesper_accent">#D4AF37</color>
+    <color name="vesper_accent">#FFB703</color>
 
     <!-- Surface Colors -->
     <color name="vesper_surface">#0E1118</color>
